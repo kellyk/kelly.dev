@@ -6,6 +6,12 @@ Wordpress2016.overrideThemeStyles = () => {
     "a.gatsby-resp-image-link": {
       boxShadow: `none`,
     },
+    "ol, ul": {
+      marginLeft: `2em`
+    },
+    "li": {
+      margin: '1.2em 0'
+    }
   }
 }
 
