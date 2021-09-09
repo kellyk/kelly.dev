@@ -1,17 +1,17 @@
 ---
-title: How to Buy Alt Coins from the US
+title: How to Buy Alt Coins from the US with DexLab
 date: "2021-09-08T22:40:32.169Z"
 description: How to purchase alt crypto coins like SOL, AR, LIQ, SUNNY and SBR from the United States.
 ---
 
 About two weeks ago, I bought my first cryptocurrency(!).
 
-I was pretty skeptical going in -- it's basically gambling, right? -- so I decided to invest only
-an amount I could afford to lose ($2k). I split it evenly between four coins on Coinbase: BTC, ETH, SOL and FIL.
+I was pretty skeptical going in -- it's basically gambling, right? -- so I decided to invest
+an amount I could afford to lose ($2k), split evenly between four coins on Coinbase: BTC, ETH, SOL and FIL.
 
 It only took a few hours of refreshing my Coinbase page to get obsessed. It was mesmerizing to watch
-the numbers go up and down, and to realize how much power I had in the process.  I decided that same day to
-invest more money, but with a lot more research for the next round. As you can probably guess, I ended
+the numbers go up and down, and to realize how much power I had in the process.  I decided to
+invest more money that same day, but with a lot more research. As you can probably guess, I ended
 up on YouTube, and heard about a lot of exciting coins and tokens -- that I couldn't buy from the US.
 
 ## Finding Exchanges
